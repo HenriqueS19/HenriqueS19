@@ -2,9 +2,10 @@
 
 ---
 #### 🖥 Tecnologia e Educação
-👨‍🎓 **Formação:** Tecnologias e Programação de Sistemas de Informação
-💼 **Interesses:** Software Development • DevOps • AI
+👨‍🎓 **Formação:** Tecnologias e Programação de Sistemas de Informação <br>
+💼 **Interesses:** Software Development • DevOps • AI <br>
 📧 **Contato:** henrique17.magalhaes@gmail.com
+
 
 ---
 ### 🛠 Languages & Tools
